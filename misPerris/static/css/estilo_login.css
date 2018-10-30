@@ -6,9 +6,7 @@
 
 }
 
-body {
-    background: white url("img/login_registrar/perro.jpg") no-repeat right bottom;
-}
+body { background-image: url("../../static/img/login_registrar/perro.jpg");} 
 
 
 .grid-block{
